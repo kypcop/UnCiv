@@ -4020,12 +4020,14 @@
 	}
 	
 	"Lighthouse":{
+		Russian:"Маяк"
 		Italian:"Faro"
 		French:"Phare"
         Simplified_Chinese:"灯塔"
         Portuguese:"Farol" // farol also means that thing wich has a red ligh (i do not remember it's name) so if deemed nescessarry can add costeira to the beggining
 	}
 	"Can only be built in coastal cities":{
+		Russian:"Может быть построено только в прибрежных городах"
 		Italian:"Disponibile solo nelle città costiere"
 		French:"Peut seulement être construit dans les villes côtières"
         Simplified_Chinese:"只能建在沿海城市"
@@ -4034,12 +4036,15 @@
 	"+1 food from Ocean and Coast tiles":{}
 	
 	"The Great Lighthouse":{
+		Russian:"Великий(Фаросский) маяк"
+	
 		Italian:"Grande Faro"
 		French:"Grand Phare"
         Simplified_Chinese:"大灯塔"
         Portuguese:"O Grande Farol"
 	}
 	"All military naval units receive +1 movement and +1 sight":{
+		Russian:"все военно-морские юниты +1 к обзору, +1 к передвижению"
 		Italian:"+1 Movimento e +1 Visione per ogni unità militare marittima"
 		French:"+1 de mouvement et +1 de vision à toutes les unités navales militaires"
         Simplified_Chinese:"所有海军军事单位+1移动力和+1视野"
@@ -4213,18 +4218,22 @@
 	}
 	
 	"Harbor":{
+		Russian:"Порт"
 		Italian:"Porto"
 		French:"Havre"
         Simplified_Chinese:"港口"
         Portuguese:"Porto"
 	}
 	"+1 production from all sea resources worked by the city":{
+		Russian:"+1 к производству за каждый морской ресурс, обрабатываемый городом"
+	
 		Italian:"+1 Produzione per ogni risorsa marittima sfruttata"
 		French:"+1 de production pour toutes les ressources maritimes exploitées par la ville"
         Simplified_Chinese:"+1生产力来自全市所有海洋资源"
         Portuguese:"1+ de produção de todos os recursos marítimos trabalhados pelo cidade"
 	}
 	"Connects trade routes over water":{
+		Russian:"Соединяет морские торговые пути"
 		Italian:"Consente le rotte commerciali marittime"
 		French:"Connecter des routes commerciales maritimes"
         Simplified_Chinese:"连接水上贸易路线"
@@ -4302,6 +4311,7 @@
         Portuguese:"Torre de Porcelana"
 	}
 	"Free great scientist appears":{
+		Russian:"Появляется Великий ученый"
 		Italian:"Appare un Grande Scienziato"
 		French:"Grand scientifique gratuit apparaît"
         Simplified_Chinese:"免费的大科学家出现"
@@ -4479,18 +4489,21 @@
 	}
 	
 	"Seaport":{
+		Russian:"Гавань"
 		Italian:"Cantiere navale"
 		French:"Port"
         Simplified_Chinese:"海港"
         Portuguese:"Port"
 	}
 	"+1 production and gold from all sea resources worked by the city":{
+		Russian:"+1 к продукции и золоту за обрабатываемые морские ресурсы возле города"
 		Italian:"+1 Produzione e Oro da ogni risorsa marittima sfruttata dalla città"
 		French:"+1 de production et d'or pour toutes les ressources maritimes exploitées par la ville"
         Simplified_Chinese:"+1 生产和金钱来自全市所有海洋资源"
         Portuguese:"'+1 de produção e ouro de todos os recursos navais trabalhados pela cidade"
 	}
 	"+15% production of naval units":{
+		Russian:"+15% к производству, при создании морских юнитов"
 		Italian:"+15% Produzione per le unità marittime"
 		French:"+15% à la production d'unités maritimes"
         Simplified_Chinese:"+15%的海军单位生产"
@@ -4671,6 +4684,7 @@
 		French:"Opéra de Sydney"
         Simplified_Chinese:"悉尼歌剧院"
         Portuguese:"Ópera de Sydney"
+		Russian:"Сиднейский оперный театр"
 	}
 	
 	"Apollo Program":{	
@@ -4736,6 +4750,7 @@
         Portuguese:"Parte de Nave Espacial"
 	}
 	"SS Booster":{	//no translation that I know of
+		Russian:"CC Ускоритель"
 		Italian:"Propulsore dell'astronave"
 		Spanish:"Potenciador (Nave espacial)"
 		French:"Propulseur du Vaisseau Spatial"
@@ -4743,6 +4758,7 @@
         Portuguese:"Propulsor de Nave Espacial"
 	}
 	"SS Cockpit":{	//no translation that I know of
+			Russian:"СС Кабина"
 		Italian:"Abitacolo dell'astronave"
 		Spanish:"Cabina (Nave espacial)"
 		French:"Cabine du Vaisseau Spatial"
@@ -4750,6 +4766,7 @@
         Portuguese:"Cabine de Nave Espacial"
 	}
 	"SS Engine":{	//no translation that I know of
+		Russian:"CC Двигатель"
 		Italian:"Motore dell'astronave"
 		Spanish:"Motor (Nave espacial)"
 		French:"Moteur-fusée du Vaisseau Spatial"
@@ -4757,6 +4774,7 @@
         Portuguese:"Propulsor principal de Nave Espacial"
 	}
 	"SS Stasis Chamber":{	//no translation that I know of
+		Russian:"СС Стазис камера"
 		Italian:"Camera di stasi dell'astronave"
 		Spanish:"Cámara de estasis (Nave espacial)"
 		French:"Chambre de biostase du Vaisseau Spatial"
@@ -4798,7 +4816,7 @@
 	}
 	"Archer":{	
 		Italian:"Arciere"
-		Russian:"Лучник"
+		Russian:"лучники"
 		French:"Archer"
 		Romanian:"Arcaş"
 		Spanish:"Arquero"
@@ -4807,10 +4825,8 @@
 	}
 	"Bowman":{
 		Italian:"Guerriero con arco"	
-		Russian:"Меткий лучник"
+		Russian:"Аккадские лучники"
 		French:"Archer"
-		//IS THIS SAME AS ARCHER IN OTHER LANGUAGES=?? 
-		//In official Russian localization it's accurate archer :)
 		Spanish:"Arquero experto"
         Simplified_Chinese:"亚述弓兵"
         Portuguese:"Arqueiro"
@@ -4820,12 +4836,14 @@
 		French:"Bateau de travail"
         Simplified_Chinese:"工船"
         Portuguese:"Barcos de trabalho"
+		Russian:"рабочая лодка"
 	}
 	"Trireme":{
 		Italian:"Trireme"
 		French:"Trirème"
         Simplified_Chinese:"三列桨战船"
         Portuguese:"Trireme"
+		Russian:"трирема"
 	}
 	"Chariot Archer":{	
 		Italian:"Arciere su carro"
@@ -4838,6 +4856,7 @@
 	}
 	"War Chariot":{ // Egypt unique
 		Simplified_Chinese:"埃及战车"
+		Russian:"боевая коллесница"
 	} 
 	
 	
@@ -4851,12 +4870,14 @@
         Portuguese:"Lanceiro"
 	}
 	"Hoplite":{
+		Russian:"Гоплит"
 		Simplified_Chinese:"希腊重步兵"
 	}// Greek unique
 	
 	// Classical Era Units
 	"Composite Bowman":{
 		Simplified_Chinese:"复合弓兵"
+		Russian:"лучник(композитный лук)"
 	}
 	"Catapult":{	
 		Italian:"Catapulta"
@@ -4868,6 +4889,7 @@
         Portuguese:"Catapulta"
 	}
 	"Ballista":{
+		Russian:"баллиста"
 		Italian:"Ballista"
 		French:"Balliste"
         Simplified_Chinese:"弩炮"
@@ -4906,6 +4928,7 @@
 	
 	// Medieval units
 	"Galleass":{
+		Russian:"галлеас"
 		Italian:"Galeazza"
 		French:"Galléasse"
         Simplified_Chinese:"三桅帆装军舰"
@@ -4926,7 +4949,8 @@
 		French:"Archer longbow"
 		Spanish:"Arquero de arco largo"
         Simplified_Chinese:"长弓手"
-        Portuguese:"Arqueiro de arco longo"
+        	Russian:"лучник(длинный лук)"
+		Portuguese:"Arqueiro de arco longo"
 	}
 	"Chu-ko-nu":{
 		Simplified_Chinese:"诸葛弩"
